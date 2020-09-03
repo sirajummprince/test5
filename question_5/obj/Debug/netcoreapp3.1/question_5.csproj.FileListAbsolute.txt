@@ -1,0 +1,13 @@
+D:\C#\question_5\obj\Debug\netcoreapp3.1\question_5.csprojAssemblyReference.cache
+D:\C#\question_5\obj\Debug\netcoreapp3.1\question_5.AssemblyInfoInputs.cache
+D:\C#\question_5\obj\Debug\netcoreapp3.1\question_5.AssemblyInfo.cs
+D:\C#\question_5\obj\Debug\netcoreapp3.1\question_5.csproj.CoreCompileInputs.cache
+D:\C#\question_5\bin\Debug\netcoreapp3.1\question_5.exe
+D:\C#\question_5\bin\Debug\netcoreapp3.1\question_5.deps.json
+D:\C#\question_5\bin\Debug\netcoreapp3.1\question_5.runtimeconfig.json
+D:\C#\question_5\bin\Debug\netcoreapp3.1\question_5.runtimeconfig.dev.json
+D:\C#\question_5\bin\Debug\netcoreapp3.1\question_5.dll
+D:\C#\question_5\bin\Debug\netcoreapp3.1\question_5.pdb
+D:\C#\question_5\obj\Debug\netcoreapp3.1\question_5.dll
+D:\C#\question_5\obj\Debug\netcoreapp3.1\question_5.pdb
+D:\C#\question_5\obj\Debug\netcoreapp3.1\question_5.genruntimeconfig.cache
